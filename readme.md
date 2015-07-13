@@ -9,7 +9,8 @@
 
 [Laravel Pagination](http://laravel.com/docs/5.1/pagination).
 
-[Video Scroll infinito](https://www.youtube.com/wath?v=FXv92nEprOM).
+[Video Scroll infinito](https://www.youtube.com/watch?v=FXv92nEprOM).
 
 
 
+ll
