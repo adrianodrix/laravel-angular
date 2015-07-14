@@ -11,6 +11,6 @@
 
 [Video Scroll infinito](https://www.youtube.com/watch?v=FXv92nEprOM).
 
-
+[Exibir branch no terminal](http://www.leaseweblabs.com/2013/08/git-tip-show-your-branch-name-on-the-linux-prompt/).
 
 ll
